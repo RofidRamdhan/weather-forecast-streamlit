@@ -29,7 +29,7 @@ db_config = {
     'user': 'root',
     'password': '',
     'host': 'local_host',
-    'database': 'weather-predict'
+    'database': 'data_sensor'
 }
 
 # Function to fetch data from MySQL database
