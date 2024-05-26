@@ -126,6 +126,7 @@ pydeck==0.8.1b0
 pyflakes==2.3.1
 Pygments==2.10.0
 Pympler==1.0.1
+pymysql==1.1.1
 PyOpenGL==3.1.5
 pyparsing==2.4.7
 pyproj==3.2.1
@@ -155,7 +156,7 @@ shapely==2.0.1
 six==1.16.0
 slippy==0.3.1
 smmap==5.0.0
-SQLAlchemy==2.0.3
+SQLAlchemy==2.0.30
 statsmodels==0.13.5
 streamlit==1.23.1
 streamlit-folium==0.13.0
